@@ -2,6 +2,6 @@
 Use MAML on a single dataset in order to generalize instead of matching patterns
 
 ## Setup
-Needs torch and learn2learn, torchviz, and higher pip packages.
+`python3 -m pip install -r requirements.txt`
 
 Torchviz requires graphviz: `sudo apt-get install graphviz`
