@@ -7,6 +7,8 @@ Contrast to our approach:
 1. we use a distinct generalization split of the dataset, instead of sampling both batches from the same dataset. This makes sure that the generalization ability is tested.
 2. They use the loss of the first batch too. We, on the other hand, only use the second order loss.
 
+Relations to second order optimizers such as Shampoo?
+https://arxiv.org/pdf/1802.09568.pdf
 
 ## Setup
 `python3 -m pip install -r requirements.txt`
