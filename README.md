@@ -9,6 +9,7 @@ Contrast to our approach:
 
 Relations to second order optimizers such as Shampoo?
 https://arxiv.org/pdf/1802.09568.pdf
+Distributed shampoo: https://openreview.net/pdf?id=Sc8cY4Jpi3s
 
 ## Setup
 `python3 -m pip install -r requirements.txt`
